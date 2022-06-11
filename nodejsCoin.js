@@ -93,4 +93,5 @@ console.log(JSON.stringify(logCoin, null, 5));
 
 module.exports = {
   logCoin,
+  Block,
 };

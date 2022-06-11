@@ -2,7 +2,7 @@ const coin = require("./nodejsCoin");
 
 const createCrypto = (request, response) => {
   coin.logCoin.addNewBlock(
-    new Block(1, "06/04/2022", {
+    new coin.Block(1, "06/05/2022", {
       sender: "Frank Joseph",
       recipient: "LogJavasriptno",
       quantity: 25,
