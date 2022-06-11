@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": " bash simple/scripts/build.sh"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
     "node": "16.15.0"
